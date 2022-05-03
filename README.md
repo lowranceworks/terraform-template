@@ -1,7 +1,7 @@
 <!-- markdownlint-disable -->
 
 # Terraform Template
-Provides a template to start with when you're ready to create a Terraform project.
+Provides a template to start with when you are ready to create a Terraform project. 
 
 
 ## Usage
